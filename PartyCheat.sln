@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyCheat", "PartyCheat\PartyCheat.csproj", "{EAB03757-A8E8-43E8-BB4B-BE8DCE11A731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB03757-A8E8-43E8-BB4B-BE8DCE11A731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB03757-A8E8-43E8-BB4B-BE8DCE11A731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB03757-A8E8-43E8-BB4B-BE8DCE11A731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB03757-A8E8-43E8-BB4B-BE8DCE11A731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF402214-2FEC-4E79-A11C-E95C5F52F218}
+	EndGlobalSection
+EndGlobal
